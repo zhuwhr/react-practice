@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [React](https://facebook.github.io/react/) [![Build Status](https://img.shields.io/travis/facebook/react/master.svg?style=flat)](https://travis-ci.org/facebook/react) [![Coverage Status](https://img.shields.io/coveralls/facebook/react/master.svg?style=flat)](https://coveralls.io/github/facebook/react?branch=master) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
 
 React is a JavaScript library for building user interfaces.
@@ -113,7 +112,7 @@ Examples provided in this repository and in the documentation are [separately li
 There's only so much we can cram in here. To read more about the community and guidelines for submitting pull requests, please read the [Contributing document](CONTRIBUTING.md).
 
 ## Troubleshooting
+
 See the [Troubleshooting Guide](https://github.com/facebook/react/wiki/Troubleshooting)
 =======
-# react-practice
->>>>>>> 6a45d739e4d747918f63b63e480f9317d42a9ab1
+
