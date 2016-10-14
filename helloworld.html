@@ -9,7 +9,12 @@
 </head>
 <body>
 <div id="example"></div>
-<script type="text/babel" src="src/helloworld.js"></script>
+<script type="text/babel">
+    ReactDOM.render(
+        <h1>I just don't want to type Hello, world!</h1>,
+        document.getElementById('example')
+    );
+</script>
 
 
 </body>
